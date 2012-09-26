@@ -1,0 +1,15 @@
+{
+  "name": "editable-money",
+  "repo": "componitable/editable-money",
+  "description": "Inline editable currency fields in almost any currency",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "componitable/editable": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
